@@ -1,0 +1,35 @@
+{
+    "name": "meta-s",
+    "displayName": "meta's",
+    "description": "def",
+    "version": "0.0.1",
+    "publisher": "meta",
+    "engines": {
+        "vscode": "^1.16.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [ 
+        "akamud.vscode-theme-onedark", 
+        "christian-kohler.path-intellisense", 
+        "CoenraadS.bracket-pair-colorizer", 
+        "dbaeumer.vscode-eslint", 
+        "eg2.vscode-npm-script", 
+        "emmanuelbeziat.vscode-great-icons", 
+        "felixfbecker.php-debug", 
+        "HookyQR.beautify", 
+        "HvyIndustries.crane", 
+        "joelday.docthis", 
+        "johnpapa.Angular2", 
+        "jtlowe.vscode-icon-theme", 
+        "karyfoundation.theme-karyfoundation-themes", 
+        "neilbrayfield.php-docblocker", 
+        "octref.vetur", 
+        "Sammons.ts-import-assistance", 
+        "shalldie.background", 
+        "sidthesloth.html5-boilerplate", 
+        "steoates.autoimport", 
+        "WallabyJs.quokka-vscode"
+    ]
+}
